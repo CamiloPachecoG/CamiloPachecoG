@@ -20,6 +20,9 @@ const aboutMe = {
    challenge: "I'm working towards being a better professional.",
 };
 ```
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloPachecoG&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
 
