@@ -1,22 +1,22 @@
 # Console.log('Hello 👋')
 
-Profesional en constante búsqueda de desafíos y nuevas tecnologías para la solución de problemas que se presenten, posee experiencia en análisis de datos y desarrollo de software.
-
-## Skills
-
-**Desarrollo Web**
-* PHP (Laravel)
-* HTML
-* JavaScript (React)
-* CSS
-* MYSQL
-
-**Analisis de datos**
-
-* Python
-* PowerBI
-* SQL
-
-## Me Puedes Contactar en:
-
-:page_facing_up: Linkedin: [Linkedin Profile](https://www.linkedin.com/in/camilo-pg/).
+```javascript
+const aboutMe = {
+   Name: "Camilo",
+   Age: "27",
+   code: [Javascript, HTML, CSS, Python, Java, PHP],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         PHP: ["Laravel"],
+         js: ["Node"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["open for job opportunities"],
+   challenge: "I'm working towards being a better professional.",
+};
+```
