@@ -1,16 +1,22 @@
-### Hi there 👋
+# Console.log('Hello 👋')
 
-<!--
-**CamiloPachecoG/CamiloPachecoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional en constante búsqueda de desafíos y nuevas tecnologías para la solución de problemas que se presenten, posee experiencia en análisis de datos y desarrollo de software.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrollo Web**
+* PHP (Laravel)
+* HTML
+* JavaScript (React)
+* CSS
+* MYSQL
+
+**Analisis de datos**
+
+* Python
+* PowerBI
+* SQL
+
+## Me Puedes Contactar en:
+
+:page_facing_up: Linkedin: [Linkedin Profile](https://www.linkedin.com/in/camilo-pg/).
