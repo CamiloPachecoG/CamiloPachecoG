@@ -4,7 +4,7 @@
 const aboutMe = {
    Name: "Camilo",
    Age: "27",
-   code: [Javascript, HTML, CSS, Python, Java, PHP],
+   code: [Javascript, HTML, CSS, Python, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
