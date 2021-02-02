@@ -8,13 +8,13 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap"]
+         css: ["Bootstrap", "scss"]
       },
       backEnd: {
          PHP: ["Laravel"],
          js: ["Node"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
    },
    currentOccupation: ["open for job opportunities"],
    challenge: "I'm working towards being a better professional.",
