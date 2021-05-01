@@ -7,11 +7,12 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, PHP],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Angular"],
          css: ["Bootstrap", "scss"]
       },
       backEnd: {
          PHP: ["Laravel"],
+         Java: [SpringBoot],
          js: ["Node"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
