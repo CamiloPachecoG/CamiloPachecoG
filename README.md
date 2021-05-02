@@ -12,7 +12,6 @@ const aboutMe = {
       },
       backEnd: {
          PHP: ["Laravel"],
-         Java: [SpringBoot],
          js: ["Node"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
