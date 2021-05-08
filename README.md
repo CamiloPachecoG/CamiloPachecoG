@@ -4,17 +4,18 @@
 const aboutMe = {
    Name: "Camilo",
    Age: 27,
-   code: [Javascript, HTML, CSS, Python, PHP],
+   code: [Javascript, CSS, Java, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
          css: ["Bootstrap", "scss"]
       },
       backEnd: {
+         JAVA: ["Spring Boot"],
          PHP: ["Laravel"],
-         js: ["Node"],
+         JS: ["Node"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
+      databases: ["MongoDB", "mySQL", "Firebase"],
    },
    currentOccupation: ["open for job opportunities"],
    challenge: "I'm working towards being a better professional.",
