@@ -4,11 +4,11 @@
 const aboutMe = {
    Name: "Camilo",
    Age: 27,
-   code: [Javascript, CSS, Java, PHP],
+   code: [Javascript, Java, PHP],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "scss"]
+         JS: ["React", "Angular"],
+         CSS: ["Bootstrap", "scss"]
       },
       backEnd: {
          JAVA: ["Spring Boot"],
