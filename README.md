@@ -17,7 +17,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "Firebase"],
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["FullStack developer"],
    challenge: "I'm working towards being a better professional.",
 };
 ```
